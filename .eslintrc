@@ -1,0 +1,13 @@
+{
+  "env": {
+    "browser": true
+  },
+  "extends": [
+    "plugin:vue/essential",
+    "airbnb-base"
+  ],
+  "parserOptions": {
+    "parser": "babel-eslint",
+    "fix": true
+  }
+}

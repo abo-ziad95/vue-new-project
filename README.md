@@ -1,5 +1,3 @@
-# mycolab-web
-
 ## Project setup
 ```
 yarn install
